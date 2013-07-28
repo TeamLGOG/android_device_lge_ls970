@@ -1,6 +1,6 @@
 android_device_lge_geehrc4g_spr_us
 ==================================
 
-Cyanogenmod device repo for Sprint LG Optimus G for Liquid Smooth Rom
+Cyanogenmod device repo for Sprint LG Optimus G for 
 
-this is the repo i have set up to build liquid smooth rom
+this is the repo i have set up to build cyanogenmod 10.1
