@@ -23,7 +23,7 @@ DEVICE_PACKAGE_OVERLAYS += device/lge/ls970/overlay
 ## common overlays
 DEVICE_PACKAGE_OVERLAYS += device/lge/ls970-common/overlay-cdma
 
-PRODUCT_PACKAGES := \
+PRODUCT_PACKAGES += \
 	lights.ls970
 
 # Inherit from ls970-common
